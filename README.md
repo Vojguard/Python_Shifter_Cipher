@@ -1,7 +1,7 @@
 # SHIFTER CIPHER
 A fun project to create a cipher in python.
 
-## Files
+## Files:
 - shifter_cipher.py, the source code
 - shifter_cipher.exe, the executable
 
@@ -11,7 +11,7 @@ A fun project to create a cipher in python.
 - Enter a three letter key
 - Output: the ciphered text
 
-## How to decifer
+## How to decipher:
 - Open the exe file
 - Enter the text you want to decipher
 - Enter the three letter key used to cipher
